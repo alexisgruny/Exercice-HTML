@@ -1,6 +1,7 @@
 # Prairie-Exercice-HTML
 Vous trouverez ici une serie d'exercice à faire dans l'ordre et à mettre dans votre github.
-Vous devez avoir une page valide HTML (Doctype, ...). Pensez à l'indentation !!!
+Vous devez avoir une page valide HTML (Doctype, ...).
+Pensez à l'indentation !!!
 
 ##Exercice 1
 Ecrire une page HTML qui affiche :
@@ -9,3 +10,13 @@ Ecrire une page HTML qui affiche :
   - un paragraphe
   - Le document devra être écrit en UTF-8
   - Le document devra contenir des caractères accentués
+
+##Exercice 2
+Ecrire une page HTML contenant :
+  - un titre de niveau 1
+  - un paragraphe
+  - un titre de niveau 2
+  - un deuxième paragraphe
+  - un autre titre de niveau 2
+  - un troisième paragraphe
+Le choix des textes dans les titres et les paragraphes vous appartiens
