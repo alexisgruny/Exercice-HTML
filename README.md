@@ -23,7 +23,7 @@ Le choix des textes dans les titres et les paragraphes vous appartiens.
 
 ##Exercice 3
 Reproduire l'image correspondant à l'exercice.  
-Rappel : Pour utiliser du CSS dans du HTML on se sert de l'attribut **style**
+Rappel : Pour utiliser du CSS dans du HTML on se sert de **l'attribut style**
 
 ##Exercice 4
 Reproduire l'image correspondant à l'exercice.  
@@ -33,3 +33,8 @@ L'image se trouve à l'adresse : http://1.1.1.3/bmi/www.infowebmaster.fr/img/pet
   - Vous ne devez pas télécharger l'image.
   - Mettre un titre à chaque liens, pour qu'au survol ils apparaissent.
   - Mettre un texte alternatif et un titre à l'image.  
+
+##Exercice 5
+Reproduire l'image correspondant à l'exercice.  
+Pour le CSS le mettre dans une **balise style**.  
+Pour faire le tableau, il faut se servir des balises **thead**, **tfoot** et **tbody**.  
