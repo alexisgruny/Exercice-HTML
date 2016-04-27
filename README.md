@@ -43,3 +43,8 @@ Pour faire le tableau, il faut se servir des balises **thead**, **tfoot** et **t
 Reproduire l'image correspondant à l'exercice.  
 Toutes les propriétés CSS se trouveront dans **un fichier** autre que le fichier HTML.  
 Pour la largeur des rectangles de couleurs, privilégiez les pourcentages.  
+
+##Exercice 7
+Reproduire l'image correspondant à l'exercice.  
+Ce formulaire contient 3 parties et un bouton.
+Toutes les propriétés CSS se trouveront dans **un fichier** autre que le fichier HTML.  
