@@ -20,3 +20,7 @@ Ecrire une page HTML contenant :
   - un autre titre de niveau 2
   - un troisième paragraphe
 Le choix des textes dans les titres et les paragraphes vous appartiens
+
+##Exercice 3
+Reproduire l'image correspondant à l'exercice.
+Rappel : Pour utiliser du CSS dans du HTML on se sert de l'attribut **style**
