@@ -1,5 +1,5 @@
 # Prairie-Exercice-HTML
-Vous trouverez ici une serie d'exercice à faire dans l'ordre et à mettre dans votre github.  
+Vous trouverez ici une série d'exercices à faire dans l'ordre et à mettre dans votre github.  
 Vous devez avoir une page valide HTML (Doctype, ...).  
 Pensez à l'indentation !!!
 
@@ -19,7 +19,7 @@ Ecrire une page HTML contenant :
   - un deuxième paragraphe
   - un autre titre de niveau 2
   - un troisième paragraphe
-Le choix des textes dans les titres et les paragraphes vous appartiens.
+Le choix des textes dans les titres et les paragraphes vous appartient.
 
 ##Exercice 3
 Reproduire l'image correspondant à l'exercice.  
@@ -31,7 +31,7 @@ Pour les liens, mettre le site correspondant. Je vous laisse les trouver par vou
 L'image se trouve à l'adresse : http://1.1.1.3/bmi/www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png  
 **IMPORTANT**  
   - Vous ne devez pas télécharger l'image.
-  - Mettre un titre à chaque liens, pour qu'au survol ils apparaissent.
+  - Mettre un titre à chaque lien, pour qu'au survol il apparaisse.
   - Mettre un texte alternatif et un titre à l'image.  
 
 ##Exercice 5
@@ -42,7 +42,7 @@ Pour faire le tableau, il faut se servir des balises **thead**, **tfoot** et **t
 ##Exercice 6
 Reproduire l'image correspondant à l'exercice.  
 Toutes les propriétés CSS se trouveront dans **un fichier** autre que le fichier HTML.  
-Pour la largeur des rectangles de couleurs, privilégiez les pourcentages.  
+Pour la largeur des rectangles de couleur, privilégiez les pourcentages.  
 
 ##Exercice 7
 Reproduire l'image correspondant à l'exercice.  
