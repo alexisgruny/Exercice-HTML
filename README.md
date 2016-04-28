@@ -38,6 +38,7 @@ L'image se trouve à l'adresse : http://1.1.1.3/bmi/www.infowebmaster.fr/img/pet
 Reproduire l'image correspondant à l'exercice.  
 Pour le CSS le mettre dans une **balise style**.  
 Pour faire le tableau, il faut se servir des balises **thead**, **tfoot** et **tbody**.  
+Vous ne devez pas utiliser d'attribut dans cet exercice.
 
 ##Exercice 6
 Reproduire l'image correspondant à l'exercice.  
