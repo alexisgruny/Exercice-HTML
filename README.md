@@ -44,6 +44,7 @@ Vous ne devez pas utiliser d'attribut dans cet exercice.
 Reproduire l'image correspondant à l'exercice.  
 Toutes les propriétés CSS se trouveront dans **un fichier** autre que le fichier HTML.  
 Pour la largeur des rectangles de couleur, privilégiez les pourcentages.  
+Chaque rectangle de couleur est un seul élément.  
 
 ##Exercice 7
 Reproduire l'image correspondant à l'exercice.  
