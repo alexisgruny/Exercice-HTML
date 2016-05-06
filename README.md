@@ -28,7 +28,7 @@ Rappel : Pour utiliser du CSS dans du HTML on se sert de **l'attribut style**
 ##Exercice 4
 Reproduire l'image correspondant à l'exercice.  
 Pour les liens, mettre le site correspondant. Je vous laisse les trouver par vous même.  
-L'image se trouve à l'adresse : http://1.1.1.3/bmi/www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png  
+L'image se trouve à l'adresse : http://www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png  
 **IMPORTANT**  
   - Vous ne devez pas télécharger l'image.
   - Mettre un titre à chaque lien, pour qu'au survol il apparaisse.
