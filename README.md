@@ -48,5 +48,5 @@ Chaque rectangle de couleur est un seul élément.
 
 ##Exercice 7
 Reproduire l'image correspondant à l'exercice.  
-Ce formulaire contient 3 parties et un bouton.
+Ce formulaire contient 3 parties et un bouton.  
 Toutes les propriétés CSS se trouveront dans **un fichier** autre que le fichier HTML.  
